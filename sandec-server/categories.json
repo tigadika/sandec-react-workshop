@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Pasta",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54lM5CcJR8v35nxeZinRE6cAt7JABt0RfdA&s"
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1lpruKcy8C9rhAWKCcPOFuvToDRembz-oA&s"
+  },
+  {
+    "id": 3,
+    "name": "Salad",
+    "imgUrl": "https://www.eatingwell.com/thmb/rmLlvSjdnJCCy_7iqqj3x7XS72c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chopped-power-salad-with-chicken-0ad93f1931524a679c0f8854d74e6e57.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Burger",
+    "imgUrl": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Japanese",
+    "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyZwzv1QXfZ9bAsKP16yrF7ymFUc-8-VroQ&s"
+  },
+  {
+    "id": 6,
+    "name": "Western",
+    "imgUrl": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/03140502/hero3-1587x900.jpg"
+  }
+]
