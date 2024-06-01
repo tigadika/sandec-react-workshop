@@ -1,0 +1,127 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Spaghetti Bolognese",
+      "price": "Rp 45.000",
+      "category": "Pasta",
+      "imgUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204-500x500.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lasagna",
+      "price": "Rp 65.000",
+      "category": "Pasta",
+      "imgUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2020/10/Lasagne-square-FS-79.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Fettuccine Alfredo",
+      "price": "Rp 55.000",
+      "category": "Pasta",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ24cF2_iOjQC9C2OBRZg0PHgpCj7mY9aPxA&s"
+    },
+    {
+      "id": 4,
+      "title": "Pizza Margherita",
+      "price": "Rp 75.000",
+      "category": "Pizza",
+      "imgUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2017/09/Cheese-and-Tomato-Garlic-Pizza-Bread-Recipe-tall-2.webp"
+    },
+    {
+      "id": 5,
+      "title": "Pizza Pepperoni",
+      "price": "Rp 85.000",
+      "category": "Pizza",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFMfmpNGwtvfJlyrLvOsEHmYg4WYRBIX4stg&s"
+    },
+    {
+      "id": 6,
+      "title": "Caesar Salad",
+      "price": "Rp 35.000",
+      "category": "Salad",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuFAXJMA6JHZyyIFtew6QwqR27Qlx-imrwAQ&s"
+    },
+    {
+      "id": 7,
+      "title": "Greek Salad",
+      "price": "Rp 40.000",
+      "category": "Salad",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeiGF-ac0giv6krasJpqfAfBazxiOBTtUKg&s"
+    },
+    {
+      "id": 8,
+      "title": "Beef Burger",
+      "price": "Rp 55.000",
+      "category": "Burger",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROFxw1LZ6aqQzmHKPWZkGDcpCswLTp9QkLRQ&s"
+    },
+    {
+      "id": 9,
+      "title": "Chicken Burger",
+      "price": "Rp 50.000",
+      "category": "Burger",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcoWzvejga9dLTyyok1XVcnTjhJPFnpywtag&s"
+    },
+    {
+      "id": 10,
+      "title": "Chicken Teriyaki",
+      "price": "Rp 65.000",
+      "category": "Japanese",
+      "imgUrl": "https://www.kitchensanctuary.com/wp-content/uploads/2016/06/Crispy-Sesame-Chicken-Tall-FS.webp"
+    },
+    {
+      "id": 11,
+      "title": "Sushi Platter",
+      "price": "Rp 95.000",
+      "category": "Japanese",
+      "imgUrl": "https://miamifreshfishmarket.com/cdn/shop/products/platter-12-sushi.jpg?v=1711646076&width=1445"
+    },
+    {
+      "id": 12,
+      "title": "Beef Steak",
+      "price": "Rp 95.000",
+      "category": "Western",
+      "imgUrl": "https://aussieribs.com.au/wp-content/uploads/2020/09/beef-steak.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Fish and Chips",
+      "price": "Rp 65.000",
+      "category": "Western",
+      "imgUrl": "https://www.foodandwine.com/thmb/KtOziCr7xYsUXLseg7sYUpjnyq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fish-and-Chips-FT-RECIPE1223-9a3cd514302d43c2bee77cd141bb80f5.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Pasta",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54lM5CcJR8v35nxeZinRE6cAt7JABt0RfdA&s"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1lpruKcy8C9rhAWKCcPOFuvToDRembz-oA&s"
+    },
+    {
+      "id": 3,
+      "name": "Salad",
+      "imgUrl": "https://www.eatingwell.com/thmb/rmLlvSjdnJCCy_7iqqj3x7XS72c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chopped-power-salad-with-chicken-0ad93f1931524a679c0f8854d74e6e57.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Burger",
+      "imgUrl": "https://www.foodandwine.com/thmb/DI29Houjc_ccAtFKly0BbVsusHc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/crispy-comte-cheesburgers-FT-RECIPE0921-6166c6552b7148e8a8561f7765ddf20b.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Japanese",
+      "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyZwzv1QXfZ9bAsKP16yrF7ymFUc-8-VroQ&s"
+    },
+    {
+      "id": 6,
+      "name": "Western",
+      "imgUrl": "https://images.lifestyleasia.com/wp-content/uploads/sites/6/2022/03/03140502/hero3-1587x900.jpg"
+    }
+  ]
+}
